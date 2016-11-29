@@ -1,6 +1,7 @@
 # automatic_lung_border_correction
 
 This is the source code for automatic lung segmentation with bi-directional chain code border correction.
+
 Author: Shiwen Shen <shiwenshen@ucla.edu>
 
 # Citation
