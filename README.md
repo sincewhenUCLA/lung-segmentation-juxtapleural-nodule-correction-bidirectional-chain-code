@@ -1,4 +1,4 @@
-# automatic_lung_border_correction
+# lung-segmentation-juxtapleural-nodule-correction-bidirectional-chain-code
 
 This is the source code for automatic lung segmentation with bi-directional chain code border correction.
 
